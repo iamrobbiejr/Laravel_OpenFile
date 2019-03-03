@@ -7,7 +7,7 @@ There are return view codes in Laravel Controller files, just highlight blade na
 # Configuration
 
 Open ```Preferences > Key Bindings-User``` and add ```{ "keys": ["ctrl+alt+y"], "command": "laravel_open_file" }```
-or any other key instead of ctrl+alt+y depends on yout OS
+or any other key instead of ctrl+alt+y depends on your OS
 
 # Usage
 
