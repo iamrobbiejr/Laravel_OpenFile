@@ -11,7 +11,7 @@ or any other key instead of ctrl+alt+y depends on yout OS
 
 # Usage
 
-highlight blade name and path  ```return view('bladepath.bladename')``` then press command the yout configuate
+highlight blade name and path  ```return view('bladepath.bladename')``` then press command the you define in configuration 
 **remember** only highlight and select ```bladepath.bladename```
 
 ![image](https://user-images.githubusercontent.com/553379/53692941-97fbaa00-3dad-11e9-844b-8a4cf49cc2cd.png)
